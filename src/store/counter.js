@@ -1,4 +1,5 @@
-import { createSlice,configureStore } from "@reduxjs/toolkit";
+import { createSlice } from "@reduxjs/toolkit";
+
 const counterSlice = createSlice({
   name: "counter",
   initialState:{ value: 0},
@@ -20,11 +21,12 @@ const counterSlice = createSlice({
   },
 });
 export const { increment, decrement,increasrByFive, clearCount } = counterSlice.actions;
+export default counterSlice.reducer
 // export const counterAction =  counterSlice.actions
-const store = configureStore({
-  reducer: {
-    counter: counterSlice.reducer,
-  },
-});
+// const store = configureStore({
+//   reducer: {
+//     counter: counterSlice.reducer,
+//   },
+// });
 
-export default store;
+// export default store;

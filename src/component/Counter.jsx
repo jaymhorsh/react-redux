@@ -1,7 +1,7 @@
 
 import React from 'react';
 import { useDispatch, useSelector } from 'react-redux';
-import { increment, decrement,increasrByFive, clearCount } from '../store/counterSlice';
+import { increment, decrement,increasrByFive, clearCount } from '../store/counter';
 import classes from './Counter.module.css';
 
 
