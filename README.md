@@ -16,9 +16,9 @@ Prerequisites
 Node.js and npm should be installed on your machine. You can download and install them from here.
 Installation
 
-1. Clone this repository to your local machine using git clone https://github.com/jaymhorsh/react-redux.git.
+1. Clone this repository to your local machine using ` git clone https://github.com/jaymhorsh/react-redux.git `
 2. Navigate to the project directory: cd react-redux.
-3. Install dependencies by running  npm install.
+3. Install dependencies by running  `npm install`.
 4. Run `npm run start` to start the development server.
 5. Open your browser and navigate to `http://localhost:3000` to view the application.
 
