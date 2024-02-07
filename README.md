@@ -1,6 +1,6 @@
-# React Redux User Authentication & State Management Project
+#  React Redux for State Management
 
-Welcome to our React Redux project focused on user authentication, cart management, and product state management. This project serves as a learning platform to practice these essential concepts in web development.
+Welcome to our React Redux project focused on user authentication, cart management. This project serves as a learning platform to practice these essential concepts in web development.
 
 ## Features
 
