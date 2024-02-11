@@ -40,10 +40,10 @@ function App() {
       );
     };
 
-    // if (isInitial) {
-    //   isInitial = false;
-    //   return;
-    // }
+    if (isInitial) {
+      isInitial = false;
+     return;
+     }
 
     sendCartData().catch((error) => {
       // dispatch(
