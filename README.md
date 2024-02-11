@@ -5,7 +5,8 @@ Welcome to our React Redux project focused on user authentication, cart manageme
 ## Features
 
 - **User Authentication:** Implementing user authentication using Redux for state management.
-- **Cart Management:** Managing the user's cart items with Redux for state management. 
+- **Cart Management:** Managing the user's cart items with Redux for state management.
+- Navigate actoss different brancges of the repository
 
 ## Getting Started
 
